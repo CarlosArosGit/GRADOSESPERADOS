@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(21, 157, 236);
+}
+.card{
+    text-align: center;
+    width: 40%;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#btnConvertir{
+    width: 100%;
+    height: 50px;
+}
+.farenheit{
+    height: 60px;
+}
+#celsius{
+    font-weight: 600;
+    font-size: 18px;
+}
